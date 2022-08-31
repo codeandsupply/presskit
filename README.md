@@ -38,6 +38,13 @@ See the [imprint logos](https://github.com/codeandsupply/assets/tree/master/logo
 [SVG](https://github.com/codeandsupply/assets/blob/master/logos/imprint/bruteforce/build/autogen%20imprint/cs_imprint_basic_black-bg_red-border_white-lettering.svg)
 [PNG](https://github.com/codeandsupply/assets/blob/master/logos/imprint/bruteforce/build/autogen%20imprint/png/cs_imprint_basic_black-bg_red-border_white-lettering.svg.png)
 
+## Pictures of Code & Supply events and Workspace
+
+See these:
+
+* [Code & Supply Flickr](https://www.flickr.com/photos/codeandsupply/)
+* [Code & Supply Instagram](https://www.instagram.com/codeandsupply/)
+
 ## Naming
 
 When referring to Code & Supply, please remember these:

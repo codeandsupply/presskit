@@ -45,7 +45,7 @@ See these:
 * [Code & Supply Flickr](https://www.flickr.com/photos/codeandsupply/)
 * [Code & Supply Instagram](https://www.instagram.com/codeandsupply/)
 
-## Naming
+## How to refer to Code & Supply
 
 When referring to Code & Supply, please remember these:
 

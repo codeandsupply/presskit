@@ -123,6 +123,7 @@ See [What is the relationship between Code & Supply Scholarship Fund and Code & 
 
 **Conference Team.** Membership of our conference team changes with every conference. Past conference teams have included:
 
+* Sarah WITHEE
 * Brigette LEFEVER
 * Matthew BEATTY
 * Jenny MANNING

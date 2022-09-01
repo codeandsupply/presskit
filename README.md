@@ -1,8 +1,44 @@
 # Code & Supply Press Kit
 
+## What is Code & Supply?
+
+[Code & Supply Co.][co] is a Pittsburgh-based but worldwide community of software professionals, enthusiasts, students, and more.
+C&S, founded in 2013 and formalized in 2014, started as a Meetup group ([Pittsburgh Code & Supply][meetup]), [chat community][chat], and [job board][jobs]
+before expanding into hosting large technology conferences such as [Abstractions][abst], [Heartifacts][hrtfcts], and [Uptime][uptime]
+and operating a [coworking space][workspace] that also hosts meetings for C&S and many other Pittsburgh-area tech organizations.
+C&S also conducts the biennial [Compensation Survey for Tech Workers][survey], which captures a snapshot of tech workers' compensation, work life, job satisfaction, commute, tools, and more.
+
+In 2016, a generous philanthropist software engineer funded the creation of the non-profit [Code & Supply Scholarship Fund][fund],
+a separate legal entity that awards software conference travel scholarships and other educational experience funding with a focus
+on promoting and enabling the Pittsburgh software community.
+
+## What other have other media outlets written about Code & Supply?
+
+See our [press coverage archive][coverage].
+
+## C&S By the Numbers
+
+Last updated: September 2022 — nudge us and we'll update this if it's really old
+
+| Metric | Count |
+|------|----:|
+| C&S Members (participants in Meetups, conferences, etc.) | 7,000–8,000 |
+| [Mailing list subscribers][mailinglist] | > 8,000 |
+| [YouTube subscribers][youtube] | 6,320 |
+| [Meetup members][meetup] | 4,843 |
+| [Chat members][chat] | 3,612 |
+| [`@abstractionscon` Twitter followers][abst_tw] | 3,220 |
+| [`@codeandsupply` Twitter followers][twitter]˚ | 2,488 |
+| [Instagram followers][instagram]˚ | 790 |
+| [`@uptimeconf` Twitter followers][uptime_tw] | 444 |
+| [Facebook Page likes][facebook]˚ | 348 |
+| [`@heartifactsconf` Twitter followers][hrtfcts_tw] | 347 |
+
+˚ social media is not a focused growth area for C&S operations; we allow these to grow organically
+
 ## Logos
 
-See our [assets](https://github.com/codeandsupply) repo for the full set but we tend to use these the most.
+See our [assets][assets] repo for the full set but we tend to use these the most.
 
 ### Wordmark logo
 
@@ -42,8 +78,8 @@ See the [imprint logos](https://github.com/codeandsupply/assets/tree/master/logo
 
 See these:
 
-* [Code & Supply Flickr](https://www.flickr.com/photos/codeandsupply/)
-* [Code & Supply Instagram](https://www.instagram.com/codeandsupply/)
+* [Code & Supply Flickr][flickr]
+* [Code & Supply Instagram][instagram]
 
 ## How to refer to Code & Supply
 
@@ -68,3 +104,29 @@ Do not:
 ## What's the difference between Co and Fund?
 
 See [What is the relationship between Code & Supply Scholarship Fund and Code & Supply Company?](https://codeandsupply.fund/faq/#what-is-the-relationship-between-code--supply-scholarship-fund-and-code--supply-company).
+
+---
+
+<!-- links for reference above -->
+
+[co]: https://codeandsupply.co
+[meetup]: https://www.meetup.com/Pittsburgh-Code-Supply/
+[chat]: https://codeandsupply.co/chat
+[jobs]: https://codeandsupply.co/jobs
+[abst]: https://abstractions.io
+[hrtfcts]: https://heartifacts.codeandsupply.co
+[uptime]: https://uptime.events
+[workspace]: https://codeandsupply.co/workspace
+[survey]: https://codeandsupply.co/survey
+[fund]: https://codeandsupply.fund
+[mailinglist]: https://codeandsupply.co/#mailing-list
+[youtube]: https://www.youtube.com/c/CodeandsupplyCo
+[twitter]: https://twitter.com/codeandsupply
+[abst_tw]: https://twitter.com/abstractionscon
+[uptime_tw]: https://twitter.com/uptimeconf
+[hrtfcts_tw]: https://twitter.com/heartifactsconf
+[instagram]: https://instagram.com/codeandsupply
+[facebook]: https://facebook.com/codeandsupply
+[flickr]: https://www.flickr.com/photos/codeandsupply/
+[assets]: https://github.com/codeandsupply/assets
+[coverage]: https://codeandsupply.co/coverage

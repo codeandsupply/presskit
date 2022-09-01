@@ -105,6 +105,45 @@ Do not:
 
 See [What is the relationship between Code & Supply Scholarship Fund and Code & Supply Company?](https://codeandsupply.fund/faq/#what-is-the-relationship-between-code--supply-scholarship-fund-and-code--supply-company).
 
+## Who are the people behind C&S?
+
+### Principals
+
+**Justin REESE** is the Founding Executive Director of C&S. Reese is originally from McKeesport, Penna. and has a B.S. Information Science from University of Pittsburgh. Outside of C&S, Reese is a software consultant as _Builder CodeWorks_ and serves on the board CSSF and of the Western Penna. Regional Data Center. 
+
+**Colin DEAN** is the Managing Director of C&S. Dean is originally from Volant, Penna and has a B.S. in Computer Science from Westminster College and a M.S. Education from Robert Morris University. Outside of C&S, Dean is a software engineer for a private company. He is on the board of CSSF and of Meta Mesh Wireless Communities.
+
+### Directing Contributors
+
+**Yvette Jenny MENASE** is the Director of Surveys for C&S. She is originally from Washington, D.C. and has a B.A. from University of Maryland. Outside of C&S, Menase is a product manager in the podcasting industry.
+
+### Other Contributors
+
+**Conduct Team.** The CT helps to enforce the [C&S Conduct Policy](https://codeandsupply.co/policies/conduct) and advise C&S leadership on related matters. While its general membership is kept private, its principals are **Sarah WITHEE** and **Carol SMITH**.
+
+**Conference Team.** Membership of our conference team changes with every conference. Past conference teams have included:
+
+* Brigette LEFEVER
+* Matthew BEATTY
+* Jenny MANNING
+* Jean LANGE
+* Jared WILKERSON
+* Greg CHABRA
+* Eric SWANSON
+* Bartholowmew ELLIOTT
+* Michael PACCHOLI
+* Nate SMITH
+* Jonathan SHAFFER
+* Andy MOOK
+* Beth Lynn EICHER
+* Anna FILIPOVA
+* Alex TAMBELLINI
+* Emma TRIMBLE
+* Jackie REESE
+* Janna MORDEN
+
+**CSSF Selection Team.** Membership of the CSSF Selection Team is private in order to maintain a double-blind operation when considering scholarship applicants.
+
 ---
 
 <!-- links for reference above -->

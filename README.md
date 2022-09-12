@@ -16,6 +16,66 @@ on promoting and enabling the Pittsburgh software community.
 
 See our [press coverage archive][coverage].
 
+## Rough Timeline of Major C&S Events and Milestones
+
+### 2012
+
+* October: [OpenHack Pittsburgh announced](https://twitter.com/OpenHackPGH/status/262970027672760321)
+
+### 2013
+
+* September: codeandsupply.co registered
+
+### 2014
+
+* March 20: Code & Supply incorporated and announced in ["Going to try to change how tech meetups work in Pittsburgh"](https://twitter.com/codeandsupply/status/446666195878805504)
+  * ["I created @codeandsupply because the friendships I’ve created in @pghrb, @PghClojure, @pghpy, etc aren’t restricted by programming language"](https://twitter.com/justinxreese/status/446677296536387585) - Justin Reese
+* March 31: OpenHack Pittsburgh moves under Code & Supply as the [first C&S event](https://www.meetup.com/Pittsburgh-Code-Supply/events/172356772/)
+* July: [OpenHack becomes C&S Hack Night](https://twitter.com/OpenHackPGH/status/473617430204645376)
+
+### 2015
+
+* August: C&S underwrites _devopsdays Pittsburgh_
+
+### 2016
+
+* March: C&S leases office and presentation space at StartUptown's Paramount Film Exchange building
+* August: [_Abstractions_](https://abstractions.io)
+* October: Code & Supply Scholarship Fund, Inc. created
+
+### 2017
+
+* February: Workspace opens above Sharp Edge Beer Emporium on Friendship Ave in East Liberty
+* August: [_Uptime_](https://uptime.events)
+
+### 2018
+
+* January: Workspace expands to the entire third floor of Friendship Ave location
+* April: [_Heartifacts_](https://heartifacts.codeandsupply.co)
+
+### 2019
+
+* August: [_Abstractions II_](https://abstractions.io)
+* November: Meetups reach 18 days of events at Workspace in one month
+
+### 2020
+
+* January: Only one open desk available at Workspace
+* March: Pandemic national emergency temporarily closes Workspace, but 60% of members keep subscription in order to keep the facility open
+* August: [_Heartifacts_](https://heartifacts.codeandsupply.co)
+* November: Workspace re-opens under pandemic restrictions
+
+### 2021
+
+* October: In-person events resume with four special Build Night for Hacktoberfest on Mondays through the month
+
+### 2022
+
+* February: Monthly Build Night events resume
+* August: only one open desk available at Workspace, daily coworking users back to pre-pandemic levels
+* September: In-person lectures resume in earnest
+* October: Build Night for Hacktoberfest returns on Mondays through the month, first month with each week having one event
+
 ## C&S By the Numbers
 
 Last updated: September 2022 — nudge us and we'll update this if it's really old

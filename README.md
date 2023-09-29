@@ -6,7 +6,7 @@
 C&S, founded in 2013 and incorporated in 2014, started as a Meetup group ([Pittsburgh Code & Supply][meetup]), [chat community][chat], and [job board][jobs]
 before expanding into hosting large technology conferences such as [Abstractions][abst], [Heartifacts][hrtfcts], and [Uptime][uptime]
 and operating a [coworking space][workspace] that also hosts meetings for C&S and many other Pittsburgh-area tech organizations.
-C&S also conducts the biennial [Compensation Survey for Tech Workers][survey], which captures a snapshot of tech workers' compensation, work life, job satisfaction, commute, tools, and more.
+C&S also conducts the biennial-ish [Compensation Survey for Tech Workers][survey], which captures a snapshot of tech workers' compensation, work life, job satisfaction, commute, tools, and more.
 
 In 2016, a generous philanthropist software engineer funded the creation of the non-profit [Code & Supply Scholarship Fund][fund],
 a separate legal entity that awards software conference travel scholarships and other educational experience funding with a focus
@@ -24,7 +24,7 @@ See our [press coverage archive][coverage].
 
 ### 2013
 
-* September: codeandsupply.co registered
+* September: `codeandsupply.co` registered
 
 ### 2014
 
@@ -47,6 +47,7 @@ See our [press coverage archive][coverage].
 
 * February: Workspace opens above Sharp Edge Beer Emporium on Friendship Ave in East Liberty
 * August: [_Uptime_](https://uptime.events)
+* Some time: C&S assumes ownership of steelcityruby.org and related assets, sets up museum for Steel City Ruby
 
 ### 2018
 
@@ -75,24 +76,33 @@ See our [press coverage archive][coverage].
 * August: only one open desk available at Workspace, daily coworking users back to pre-pandemic levels
 * September: In-person lectures resume in earnest
 * October: Build Night for Hacktoberfest returns on Mondays through the month, first month with each week having one event
+* December: Only one open desk available at Workspace
+
+### 2023
+
+* February: First wave of tech sector layoffs hits C&S hard
+* June: Third Compensation Survey Report released [with Technical.ly announcing it](https://technical.ly/software-development/code-supply-2023-full-compensation-results/)
+* September: 10th anniversary [celebrated with Technical.ly](https://technical.ly/software-development/10-years-code-supply-pittsburgh/); Meetup crosses 5,000 members; YouTube crosses 6,700 subscribers
+* October: Build Night for Hacktoberfest returns on Mondays through the month, first month with each week having one event
+* November: C&S hosts [Global Day of Codetreat](https://www.coderetreat.org) for the 10th time in 10 years
 
 ## C&S By the Numbers
 
-Last updated: September 2022 — nudge us and we'll update this if it's really old
+Last updated: September 2023 — nudge us and we'll update this if it's really old
 
 | Metric | Count |
 |------|----:|
 | C&S Members (participants in Meetups, conferences, etc.) | 7,000–8,000 |
 | [Mailing list subscribers][mailinglist] | > 8,000 |
-| [YouTube subscribers][youtube] | 6,320 |
-| [Meetup members][meetup] | 4,843 |
-| [Chat members][chat] | 3,612 |
-| [`@abstractionscon` Twitter followers][abst_tw] | 3,220 |
-| [`@codeandsupply` Twitter followers][twitter]˚ | 2,488 |
-| [Instagram followers][instagram]˚ | 790 |
-| [`@uptimeconf` Twitter followers][uptime_tw] | 444 |
+| [YouTube subscribers][youtube] | 6,790 |
+| [Meetup members][meetup] | 4,996 |
+| [Chat members][chat] | 3,780 |
+| [`@abstractionscon` Twitter followers][abst_tw] | 3,022 |
+| [`@codeandsupply` Twitter followers][twitter]˚ | 2,312 |
+| [Instagram followers][instagram]˚ | 788 |
+| [`@uptimeconf` Twitter followers][uptime_tw] | 403 |
 | [Facebook Page likes][facebook]˚ | 348 |
-| [`@heartifactsconf` Twitter followers][hrtfcts_tw] | 347 |
+| [`@heartifactsconf` Twitter followers][hrtfcts_tw] | 309 |
 
 ˚ social media is not a focused growth area for C&S operations; we allow these to grow organically
 

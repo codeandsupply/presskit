@@ -12,6 +12,19 @@ In 2016, a generous philanthropist software engineer funded the creation of the 
 a separate legal entity that awards software conference travel scholarships and other educational experience funding with a focus
 on promoting and enabling the Pittsburgh software community.
 
+## What are C&S' lines of business?
+
+* Conferences
+* Meetups
+* Online Communities (Slack, YouTube, Twitch, Instagram, Fediverse/Mastodon, Twitter)
+* Job Board
+* Tech Worker Compensation Survey and other knowledge-sharing initiatives
+* Logo and coding, techie, and geek merchandise
+* Co-working space, individual and group rental
+
+[CSSF][fund] runs as an entirely separate organization.
+See [What is the relationship between Code & Supply Scholarship Fund and Code & Supply Company?](https://codeandsupply.fund/faq/#what-is-the-relationship-between-code--supply-scholarship-fund-and-code--supply-company) for more information.
+
 ## What other have other media outlets written about Code & Supply?
 
 See our [press coverage archive][coverage].

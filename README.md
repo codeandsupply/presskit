@@ -101,23 +101,25 @@ See our [press coverage archive][coverage].
 
 ## C&S By the Numbers
 
-Last updated: September 2023 — nudge us and we'll update this if it's really old
+Last updated: November 2023 — nudge us and we'll update this if it's really old
 
 | Metric | Count |
 |------|----:|
 | C&S Members (participants in Meetups, conferences, etc.) | 7,000–8,000 |
 | [Mailing list subscribers][mailinglist] | > 8,000 |
-| [YouTube subscribers][youtube] | 6,790 |
-| [Meetup members][meetup] | 4,996 |
-| [Chat members][chat] | 3,780 |
+| [YouTube subscribers][youtube] | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Qu6WAXfoGUYc8NxPDZZBg?style=flat-square&logo=youtube) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7Qu6WAXfoGUYc8NxPDZZBg?style=flat-square) |
+| [Meetup members][meetup] | 5,018 |
+| [Chat members][chat] | 3,795 |
 | [`@abstractionscon` Twitter followers][abst_tw] | 3,022 |
 | [`@codeandsupply` Twitter followers][twitter]˚ | 2,312 |
-| [Instagram followers][instagram]˚ | 788 |
+| [Instagram followers][instagram]˚ | 789 |
 | [`@uptimeconf` Twitter followers][uptime_tw] | 403 |
 | [Facebook Page likes][facebook]˚ | 348 |
 | [`@heartifactsconf` Twitter followers][hrtfcts_tw] | 309 |
+| [Fediverse / Mastodon followers][fediverse] | ![Mastodon Followers](https://img.shields.io/mastodon/follow/110217625080697051?domain=http%3A%2F%2Fhachyderm.io&style=flat-square&label=%20) |
+| [Twitch subscribers][twitch] | 70 |
 
-˚ social media is not a focused growth area for C&S operations; we allow these to grow organically
+˚ _social media is not a focused growth area for C&S operations; we allow these to grow organically_
 
 ## Logos
 
@@ -163,6 +165,7 @@ See these:
 
 * [Code & Supply Flickr][flickr]
 * [Code & Supply Instagram][instagram]
+* [Code & Supply Fediverse][fediverse]
 
 ## How to refer to Code & Supply
 
@@ -194,11 +197,11 @@ See [What is the relationship between Code & Supply Scholarship Fund and Code & 
 
 **Justin REESE** is the Founding Executive Director of C&S. Reese is originally from McKeesport, Penna. and has a B.S. Information Science from University of Pittsburgh. Outside of C&S, Reese is a software consultant as _Builder CodeWorks_ and serves on the board CSSF and of the Western Penna. Regional Data Center. 
 
-**Colin DEAN** is the Managing Director of C&S. Dean is originally from Volant, Penna and has a B.S. in Computer Science from Westminster College and a M.S. Education from Robert Morris University. Outside of C&S, Dean is a software engineer for a private company. He is on the board of CSSF and of Meta Mesh Wireless Communities.
+**Colin DEAN** is the Managing Director of C&S. Dean is originally from Volant, Penna. and has a B.S. in Computer Science from Westminster College and a M.S. Education from Robert Morris University. Outside of C&S, Dean is a software engineer for a private company. He is on the board of CSSF and Homebrew, and is the founding past president of Meta Mesh Wireless Communities / Community Internet Solutions.
 
 ### Directing Contributors
 
-**Yvette Jenny MENASE** is the Director of Surveys for C&S. She is originally from Washington, D.C. and has a B.A. from University of Maryland. Outside of C&S, Menase is a product manager in the podcasting industry.
+**Yvette Jenny MENASE** is the Director of Surveys for C&S. She is originally from Washington, D.C., and has a B.A. from the University of Maryland. Outside of C&S, Menase is a product manager for a private company and a career coach.
 
 ### Other Contributors
 
@@ -244,10 +247,12 @@ See [What is the relationship between Code & Supply Scholarship Fund and Code & 
 [fund]: https://codeandsupply.fund
 [mailinglist]: https://codeandsupply.co/#mailing-list
 [youtube]: https://www.youtube.com/c/CodeandsupplyCo
+[twitch]: https://www.twitch.tv/codeandsupply
 [twitter]: https://twitter.com/codeandsupply
 [abst_tw]: https://twitter.com/abstractionscon
 [uptime_tw]: https://twitter.com/uptimeconf
 [hrtfcts_tw]: https://twitter.com/heartifactsconf
+[fediverse]: https://hachyderm.io/@codeandsupply
 [instagram]: https://instagram.com/codeandsupply
 [facebook]: https://facebook.com/codeandsupply
 [flickr]: https://www.flickr.com/photos/codeandsupply/

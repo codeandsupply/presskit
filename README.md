@@ -101,7 +101,9 @@ See our [press coverage archive][coverage].
 
 ## C&S By the Numbers
 
-Last updated: November 2023 — nudge us and we'll update this if it's really old
+Last updated: November 2023 — nudge us, and we'll update this if it's really old.
+
+_N.b. social media is not a focused growth area for C&S operations; we allow these to grow organically._
 
 | Metric | Count |
 |------|----:|
@@ -111,15 +113,13 @@ Last updated: November 2023 — nudge us and we'll update this if it's really ol
 | [Meetup members][meetup] | 5,018 |
 | [Chat members][chat] | 3,795 |
 | [`@abstractionscon` Twitter followers][abst_tw] | 3,022 |
-| [`@codeandsupply` Twitter followers][twitter]˚ | 2,312 |
-| [Instagram followers][instagram]˚ | 789 |
+| [`@codeandsupply` Twitter followers][twitter] | 2,312 |
+| [Instagram followers][instagram] | 789 |
 | [`@uptimeconf` Twitter followers][uptime_tw] | 403 |
-| [Facebook Page likes][facebook]˚ | 348 |
+| [Facebook Page likes][facebook] | 348 |
 | [`@heartifactsconf` Twitter followers][hrtfcts_tw] | 309 |
 | [Fediverse / Mastodon followers][fediverse] | ![Mastodon Followers](https://img.shields.io/mastodon/follow/110217625080697051?domain=http%3A%2F%2Fhachyderm.io&style=flat-square&label=%20) |
 | [Twitch subscribers][twitch] | 70 |
-
-˚ _social media is not a focused growth area for C&S operations; we allow these to grow organically_
 
 ## Logos
 

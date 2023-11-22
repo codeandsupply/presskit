@@ -87,6 +87,7 @@ See our [press coverage archive][coverage].
 
 * February: Monthly Build Night events resume
 * August: only one open desk available at Workspace, daily coworking users back to pre-pandemic levels
+* August: C&S Workspace nominated for [Best Coworking Space in Pittsburgh City Paper's Best of Burgh Awards](https://citypaper.secondstreetapp.com/Best-of-Pittsburgh-2022/gallery/336177241/)
 * September: In-person lectures resume in earnest
 * October: Build Night for Hacktoberfest returns on Mondays through the month, first month with each week having one event
 * December: Only one open desk available at Workspace

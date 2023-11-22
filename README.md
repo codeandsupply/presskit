@@ -113,8 +113,8 @@ _N.b. social media is not a focused growth area for C&S operations; we allow the
 | C&S Members (participants in Meetups, conferences, etc.) | 7,000–8,000 |
 | [Mailing list subscribers][mailinglist] | > 8,000 |
 | [YouTube subscribers][youtube] | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Qu6WAXfoGUYc8NxPDZZBg?style=flat-square&logo=youtube) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7Qu6WAXfoGUYc8NxPDZZBg?style=flat-square) |
-| [Meetup members][meetup] | 5,018 |
-| [Chat members][chat] | 3,795 |
+| [Meetup members][meetup] | 5,028 |
+| [Chat members][chat] | 3,803 |
 | [`@abstractionscon` Twitter followers][abst_tw] | 3,022 |
 | [`@codeandsupply` Twitter followers][twitter] | 2,312 |
 | [Instagram followers][instagram] | 789 |

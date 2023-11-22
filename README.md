@@ -97,7 +97,9 @@ See our [press coverage archive][coverage].
 * June: Third Compensation Survey Report released [with Technical.ly announcing it](https://technical.ly/software-development/code-supply-2023-full-compensation-results/)
 * September: 10th anniversary [celebrated with Technical.ly](https://technical.ly/software-development/10-years-code-supply-pittsburgh/); Meetup crosses 5,000 members; YouTube crosses 6,700 subscribers
 * October: Build Night for Hacktoberfest returns on Mondays through the month, first month with each week having one event
-* November: C&S hosts [Global Day of Codetreat](https://www.coderetreat.org) for the 10th time in 10 years
+* October: C&S Workspace nominated for Coworking Space of the Year in [2023 XchangePgh Xchange Awards](https://web.archive.org/web/20231122022256/https://www.xchangepgh.com/events/xchange-awards)
+* November: C&S hosts [Global Day of Codetreat](https://www.coderetreat.org) for the 10th time in 12 years ([write-up](https://medium.com/leaky-abstractions/c-s-celebrates-ten-years-of-global-day-of-coderetreat-698593549f8a))
+* November: C&S nominated for Tech Community Leader of the Year in the [2023 Technical.ly Awards for Pittsburgh](https://web.archive.org/web/20231122022634/https://technical.ly/startups/pittsburgh-2023-technically-awards-nominees/)
 
 ## C&S By the Numbers
 

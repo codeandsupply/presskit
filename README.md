@@ -5,7 +5,7 @@
 [Code & Supply Co.][co] is a Pittsburgh-based but worldwide community of software professionals, enthusiasts, students, and more.
 C&S, founded in 2013 and incorporated in 2014, started as a Meetup group ([Pittsburgh Code & Supply][meetup]), [chat community][chat], and [job board][jobs]
 before expanding into hosting large technology conferences such as [Abstractions][abst], [Heartifacts][hrtfcts], and [Uptime][uptime]
-and operating a [coworking space][workspace] that also hosts meetings for C&S and many other Pittsburgh-area tech organizations.
+and operating a [coworking space][workspace] that contributes a majority of the funding for the meeting space for C&S events and many other Pittsburgh-area tech organizations.
 C&S also conducts the biennial-ish [Compensation Survey for Tech Workers][survey], which captures a snapshot of tech workers' compensation, work life, job satisfaction, commute, tools, and more.
 
 In 2016, a generous philanthropist software engineer funded the creation of the non-profit [Code & Supply Scholarship Fund][fund],

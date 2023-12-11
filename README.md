@@ -100,11 +100,12 @@ See our [press coverage archive][coverage].
 * October: Build Night for Hacktoberfest returns on Mondays through the month, first month with each week having one event
 * October: C&S Workspace nominated for Coworking Space of the Year in [2023 XchangePgh Xchange Awards](https://web.archive.org/web/20231122022256/https://www.xchangepgh.com/events/xchange-awards)
 * November: C&S hosts [Global Day of Codetreat](https://www.coderetreat.org) for the 10th time in 12 years ([write-up](https://medium.com/leaky-abstractions/c-s-celebrates-ten-years-of-global-day-of-coderetreat-698593549f8a))
-* November: C&S nominated for Tech Community Leader of the Year in the [2023 Technical.ly Awards for Pittsburgh](https://web.archive.org/web/20231122022634/https://technical.ly/startups/pittsburgh-2023-technically-awards-nominees/)
+* November: C&S nominated for _Tech Community Leader of the Year_ in the [2023 Technical.ly Awards for Pittsburgh](https://web.archive.org/web/20231122022634/https://technical.ly/startups/pittsburgh-2023-technically-awards-nominees/)
+* November: C&S is voted _Tech Community Leader of the Year_ in the [2023 Technical.ly Awards for Pittsburgh](https://technical.ly/startups/pittsburgh-2023-technically-awards-winners/#attachment_176811)
 
 ## C&S By the Numbers
 
-Last updated: November 2023 — nudge us, and we'll update this if it's really old.
+Last updated: December 2023 — nudge us, and we'll update this if it's really old.
 
 _N.b. social media is not a focused growth area for C&S operations; we allow these to grow organically._
 
@@ -113,16 +114,16 @@ _N.b. social media is not a focused growth area for C&S operations; we allow the
 | C&S Members (participants in Meetups, conferences, etc.) | 7,000–8,000 |
 | [Mailing list subscribers][mailinglist] | > 8,000 |
 | [YouTube subscribers][youtube] | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Qu6WAXfoGUYc8NxPDZZBg?style=flat-square&logo=youtube) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7Qu6WAXfoGUYc8NxPDZZBg?style=flat-square) |
-| [Meetup members][meetup] | 5,028 |
-| [Chat members][chat] | 3,803 |
-| [`@abstractionscon` Twitter followers][abst_tw] | 3,022 |
-| [`@codeandsupply` Twitter followers][twitter] | 2,312 |
-| [Instagram followers][instagram] | 789 |
-| [`@uptimeconf` Twitter followers][uptime_tw] | 403 |
+| [Meetup members][meetup] | 5,038 |
+| [Chat members][chat] | 3,811 |
+| [`@abstractionscon` Twitter followers][abst_tw] | 3,006 |
+| [`@codeandsupply` Twitter followers][twitter] | 2,294 |
+| [Instagram followers][instagram] | 790 |
+| [`@uptimeconf` Twitter followers][uptime_tw] | 404 |
 | [Facebook Page likes][facebook] | 348 |
-| [`@heartifactsconf` Twitter followers][hrtfcts_tw] | 309 |
+| [`@heartifactsconf` Twitter followers][hrtfcts_tw] | 308 |
 | [Fediverse / Mastodon followers][fediverse] | ![Mastodon Followers](https://img.shields.io/mastodon/follow/110217625080697051?domain=http%3A%2F%2Fhachyderm.io&style=flat-square&label=%20) |
-| [Twitch subscribers][twitch] | 70 |
+| [Twitch subscribers][twitch] | 73 |
 
 ## Logos
 

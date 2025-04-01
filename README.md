@@ -4,8 +4,7 @@
 
 [Code & Supply Co.][co] is a Pittsburgh-based but worldwide community of software professionals, enthusiasts, students, and more.
 C&S, founded in 2013 and incorporated in 2014, started as a Meetup group ([Pittsburgh Code & Supply][meetup]), [chat community][chat], and [job board][jobs]
-before expanding into hosting large technology conferences such as [Abstractions][abst], [Heartifacts][hrtfcts], and [Uptime][uptime]
-and operating a [coworking space][workspace] that contributes a majority of the funding for the meeting space for C&S events and many other Pittsburgh-area tech organizations.
+before expanding into hosting large technology conferences such as [Abstractions][abst], [Heartifacts][hrtfcts], and [Uptime][uptime].
 C&S also conducts the biennial-ish [Compensation Survey for Tech Workers][survey], which captures a snapshot of tech workers' compensation, work life, job satisfaction, commute, tools, and more.
 
 In 2016, a generous philanthropist software engineer funded the creation of the non-profit [Code & Supply Scholarship Fund][fund],
@@ -20,10 +19,13 @@ on promoting and enabling the Pittsburgh software community.
 * Job Board
 * Tech Worker Compensation Survey and other knowledge-sharing initiatives
 * Logo and coding, techie, and geek merchandise
-* Co-working space, individual and group rental
 
 [CSSF][fund] runs as an entirely separate organization.
 See [What is the relationship between Code & Supply Scholarship Fund and Code & Supply Company?](https://codeandsupply.fund/faq/#what-is-the-relationship-between-code--supply-scholarship-fund-and-code--supply-company) for more information.
+
+Code & Supply previously ran a [coworking space][workspace] that contributed most of the funding for the meeting space for C&S events,
+including many other Pittsburgh-area tech organizations that met in the space at no charge.
+More than 100 people called this space home for anywhere from a month up to around five years for our longest-resident member.
 
 ## What other have other media outlets written about Code & Supply?
 
@@ -103,9 +105,18 @@ See our [press coverage archive][coverage].
 * November: C&S nominated for _Tech Community Leader of the Year_ in the [2023 Technical.ly Awards for Pittsburgh](https://web.archive.org/web/20231122022634/https://technical.ly/startups/pittsburgh-2023-technically-awards-nominees/)
 * November: C&S is voted _Tech Community Leader of the Year_ in the [2023 Technical.ly Awards for Pittsburgh](https://technical.ly/startups/pittsburgh-2023-technically-awards-winners/#attachment_176811)
 
+### 2024
+
+* October: Announced closure of Workspace in [C&S Workspace and Community Center will close December 2024](https://medium.com/leaky-abstractions/workspace-closing-9eb71f9fd187)
+* November: Workspace closure delayed until January 2025 courtesy of new landlord
+
+### 2025
+
+* January 2025: Workspace closes after eight years.
+
 ## C&S By the Numbers
 
-Last updated: December 2023 — nudge us, and we'll update this if it's really old.
+Last updated: March 2025 — nudge us, and we'll update this if it's really old.
 
 _N.b. social media is not a focused growth area for C&S operations; we allow these to grow organically._
 
@@ -114,16 +125,17 @@ _N.b. social media is not a focused growth area for C&S operations; we allow the
 | C&S Members (participants in Meetups, conferences, etc.) | 7,000–8,000 |
 | [Mailing list subscribers][mailinglist] | > 8,000 |
 | [YouTube subscribers][youtube] | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Qu6WAXfoGUYc8NxPDZZBg?style=flat-square&logo=youtube) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7Qu6WAXfoGUYc8NxPDZZBg?style=flat-square) |
-| [Meetup members][meetup] | 5,038 |
-| [Chat members][chat] | 3,811 |
+| [Meetup members][meetup] | 5,226 |
+| [Chat members][chat] | 3,992 |
 | [`@abstractionscon` Twitter followers][abst_tw] | 3,006 |
-| [`@codeandsupply` Twitter followers][twitter] | 2,294 |
-| [Instagram followers][instagram] | 790 |
+| [`@codeandsupply` Twitter followers][twitter] | 2,143 |
+| [Instagram followers][instagram] | 786 |
 | [`@uptimeconf` Twitter followers][uptime_tw] | 404 |
 | [Facebook Page likes][facebook] | 348 |
 | [`@heartifactsconf` Twitter followers][hrtfcts_tw] | 308 |
 | [Fediverse / Mastodon followers][fediverse] | ![Mastodon Followers](https://img.shields.io/mastodon/follow/110217625080697051?domain=http%3A%2F%2Fhachyderm.io&style=flat-square&label=%20) |
-| [Twitch subscribers][twitch] | 73 |
+| [Bluesky][bsky] | 20 |
+| [Twitch subscribers][twitch] | 78 |
 
 ## Logos
 
@@ -163,7 +175,7 @@ See the [imprint logos](https://github.com/codeandsupply/assets/tree/master/logo
 [SVG](https://github.com/codeandsupply/assets/blob/master/logos/imprint/bruteforce/build/autogen%20imprint/cs_imprint_basic_black-bg_red-border_white-lettering.svg)
 [PNG](https://github.com/codeandsupply/assets/blob/master/logos/imprint/bruteforce/build/autogen%20imprint/png/cs_imprint_basic_black-bg_red-border_white-lettering.svg.png)
 
-## Pictures of Code & Supply events and Workspace
+## Pictures of Code & Supply events and former Workspace/HQ
 
 See these:
 
@@ -177,7 +189,7 @@ When referring to Code & Supply, please remember these:
 
 * It's acceptable to refer to all Code & Supply efforts as "Code & Supply" but if you need to be specific about which part of Code & Supply or will be talking about both orgs in the same context, use something closer to our legal names:
 
-    * Code & Supply Co. - Meetups, conferences, Workspace coworking, chat communities, etc.
+    * Code & Supply Co. - Meetups, conferences, chat communities, etc.
     * Code & Supply Scholarship Fund - our sibling non-profit organization that funds conference travel and other educational experiences
     
   We commonly refer to these as "Co" and "Fund" when we have reason to disambiguate.
@@ -257,6 +269,7 @@ See [What is the relationship between Code & Supply Scholarship Fund and Code & 
 [uptime_tw]: https://twitter.com/uptimeconf
 [hrtfcts_tw]: https://twitter.com/heartifactsconf
 [fediverse]: https://hachyderm.io/@codeandsupply
+[bsky]: https://bsky.app/profile/codeandsupply.co
 [instagram]: https://instagram.com/codeandsupply
 [facebook]: https://facebook.com/codeandsupply
 [flickr]: https://www.flickr.com/photos/codeandsupply/

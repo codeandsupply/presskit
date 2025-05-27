@@ -7,9 +7,12 @@ C&S, founded in 2013 and incorporated in 2014, started as a Meetup group ([Pitts
 before expanding into hosting large technology conferences such as [Abstractions][abst], [Heartifacts][hrtfcts], and [Uptime][uptime].
 C&S also conducts the biennial-ish [Compensation Survey for Tech Workers][survey], which captures a snapshot of tech workers' compensation, work life, job satisfaction, commute, tools, and more.
 
-In 2016, a generous philanthropist software engineer funded the creation of the non-profit [Code & Supply Scholarship Fund][fund],
+In 2016, a generous philanthropist software engineer funded the creation of the non-profit [Code & Supply Scholarship Fund][fund] (CSSF),
 a separate legal entity that awards software conference travel scholarships and other educational experience funding with a focus
 on promoting and enabling the Pittsburgh software community.
+
+> [!TIP]
+> We generally refer to **Co** and **Fund**, which are _Code & Supply Co., LLC_ and _Code & Supply Scholarship Fund, Inc._, respectively.
 
 ## What are C&S' lines of business?
 
